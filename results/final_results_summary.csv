@@ -1,0 +1,15 @@
+Experiment,Metric,Result
+Basic Kalman Tracking,MAE,0.029093
+Basic Kalman Tracking,RMSE,0.036183
+Basic Hungarian Association,MAE,0.031838
+Basic Hungarian Association,RMSE,0.038478
+Kalman + Hungarian Association,MAE,0.029093
+Kalman + Hungarian Association,RMSE,0.036183
+Missed Detection Tracking,MAE,0.028657
+Missed Detection Tracking,RMSE,0.036809
+Re-identification,MAE,0.051987
+Re-identification,RMSE,0.09451
+Re-identification,Mean 3D Error,0.105735
+Active Tracking,Mean 3D Error,0.058722
+Dormant Tracking,Mean 3D Error,0.346927
+Re-identified Tracking,Mean 3D Error,0.028071
