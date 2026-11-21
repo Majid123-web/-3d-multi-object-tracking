@@ -1,5 +1,7 @@
 # 3D Multi-Object Tracking Using Point Clouds and Kalman Filtering
-
+<p align="center">
+  <img src="tracking_visualization.png" width="800" alt="3D Multi-Object Tracking Visualization">
+</p>
 ## Overview
 
 This project is a Python-based prototype for tracking multiple moving
